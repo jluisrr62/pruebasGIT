@@ -7,6 +7,7 @@ public class Start {
 		System.out.println("Master hola");
 		System.out.println("personas hola");
 		System.out.println("avance 1");
+		System.out.println("avance 2");
 	}
 
 }
